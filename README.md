@@ -60,6 +60,9 @@ And then execute:
     $ bundle
 
 Or install it yourself as:
+```
+export GEM_HOME="$HOME/.gem"
+```
 
     $ gem install bulma-clean-theme
 
